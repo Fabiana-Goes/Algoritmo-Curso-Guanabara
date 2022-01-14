@@ -1,6 +1,6 @@
 algoritmo "Meu nome"
 // Função :
-// Autor :
+// Autor : Fabiana
 // Data : 05/01/2022
 // Seção de Declarações 
 var
