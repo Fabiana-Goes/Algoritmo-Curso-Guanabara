@@ -1,6 +1,6 @@
 algoritmo "AproveitamentoDeUmAluno"
 // Função :
-// Autor :
+// Autor : Fabiana
 // Data : 11/01/2022
 // Seção de Declarações 
 var
