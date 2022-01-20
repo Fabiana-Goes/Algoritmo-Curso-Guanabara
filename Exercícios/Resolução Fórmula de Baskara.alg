@@ -1,6 +1,6 @@
 algoritmo "Fómula de báskara"
 // Função :
-// Autor :
+// Autor : Fabiana Góes
 // Data : 05/01/2022
 // Seção de Declarações 
 var
